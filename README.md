@@ -24,23 +24,23 @@ Exercises for beginners in JavaScript
 <p>In this exercise You will learn about <b>equality and negation operators</b></p>
 <hr>
 
-<h2<Exercise 6</h2>
+<h2>Exercise 6</h2>
 <p> In this exercise you will learn how you can to <b>assign a false</b> value in a variable</p>
 <hr>
 
-<h2<Exercise 7</h2>
+<h2>Exercise 7</h2>
 <p> In this exercise you will learn about <b>null</b> value in Javascript </p>
 <hr>
 
-<h2<Exercise 8</h2>
+<h2>Exercise 8</h2>
 <p> Here you will learn how to make comparisons of <b>equality</b></p>
 <hr>
 
-<h2<Exercise 9</h2>
+<h2>Exercise 9</h2>
 <p> Here you will learn about the conditionals <b>"IF"</b> and <b>"ELSE"</b></p>
 <hr>
 
-<h2<Exercise 10</h2>
+<h2>Exercise 10</h2>
 <p> Here you will learn about the operators <b>minor, major, minor and equal, major and equal</b></p>
 <hr>
 
